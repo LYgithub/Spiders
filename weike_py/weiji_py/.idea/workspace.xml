@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc1f1566-f98c-4ea1-b2f6-2a4da0a96260" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/weiji_py$main.coverage" NAME="main Coverage Results" MODIFIED="1503735648794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/weiji_py$xinjian.coverage" NAME="xinjian Coverage Results" MODIFIED="1503539433890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/URL_jiexi.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/URL_downloader.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1Yq9ewRrGpohGRxDSkvhhXassZ6" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="OPEN_URL_DIALOG">
+      <recent name="https://en.wikipedia.org/wiki/Python_(programming_language)" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="weiji_py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc1f1566-f98c-4ea1-b2f6-2a4da0a96260" name="Default" comment="" />
+      <created>1503482094977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1503482094977</updated>
+      <workItem from="1583659370261" duration="1152000" />
+      <workItem from="1583660543627" duration="679000" />
+      <workItem from="1583716963918" duration="810000" />
+      <workItem from="1583718524844" duration="163000" />
+      <workItem from="1583719310600" duration="269000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="354" y="149" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583660199882">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="354" y="149" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1583660199882" />
+    <state x="677" y="209" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1583659819422">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="677" y="209" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1583659819422" />
+    <state x="678" y="161" key="#main" timestamp="1583659419486">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="678" y="161" key="#main/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1583659419486" />
+    <state x="747" y="302" key="FileChooserDialogImpl" timestamp="1583660166717">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="747" y="302" key="FileChooserDialogImpl/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1583660166717" />
+    <state width="1878" height="353" key="GridCell.Tab.0.bottom" timestamp="1583660538128">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="353" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1583660538128" />
+    <state width="1878" height="353" key="GridCell.Tab.0.center" timestamp="1583660538122">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="353" key="GridCell.Tab.0.center/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1583660538122" />
+    <state width="1878" height="353" key="GridCell.Tab.0.left" timestamp="1583660538120">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="353" key="GridCell.Tab.0.left/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1583660538120" />
+    <state width="1878" height="353" key="GridCell.Tab.0.right" timestamp="1583660538124">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="353" key="GridCell.Tab.0.right/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1583660538124" />
+    <state x="469" y="179" key="SettingsEditor" timestamp="1583660533944">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="179" key="SettingsEditor/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1583660533944" />
+    <state x="165" y="20" width="1020" height="716" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1583660533227">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="165" y="20" width="1020" height="716" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1583660533227" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/weiji_py$main.coverage" NAME="main Coverage Results" MODIFIED="1583660207649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
