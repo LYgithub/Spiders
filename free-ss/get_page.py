@@ -30,6 +30,5 @@ if __name__ == '__main__':
     # print(get_file())
     for i in jiexi(get_file()):
         for x in i.find_all('td'):
-            print(x.text
+            print(x.text)
 
-            
